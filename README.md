@@ -1,1 +1,0 @@
-# kiwi-ltsp-howto
